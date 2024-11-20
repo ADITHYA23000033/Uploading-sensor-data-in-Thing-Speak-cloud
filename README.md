@@ -2,7 +2,7 @@
 NAME:ADITHYA V
 REG NO:212223110001
 ~~~
-# EX:01 Uploading temperature sensor data in Thing Speak cloud
+# EX:03 Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
