@@ -134,7 +134,6 @@ void loop()
 
 ![image](https://github.com/user-attachments/assets/6dfb4710-315e-44c4-9c17-4c9167b445ad)
 
-
 # OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/3047585e-3e22-48ef-8d8f-b1052eac42cc)
